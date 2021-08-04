@@ -8,7 +8,7 @@ desired_caps = {
     "app":"~/PunkApp.apk"
 }
 
-#I used alpha dog because the one you proposed couldn't be loaded.
+#I used alpha dog.
 alpha_dog_description = "A fusion of caramel malt flavours and punchy New Zealand hops. A session beer you can get your teeth into."
 
 #Instance of webdriver
